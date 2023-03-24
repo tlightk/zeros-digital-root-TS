@@ -5,5 +5,5 @@ function digitalRoot(input: number):number {
     }
     return 3;
 }
-console.log("this is a test");
+
 console.log(digitalRoot(7));
